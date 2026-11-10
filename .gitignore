@@ -1,0 +1,5 @@
+*
+!*/
+!*.agda
+!.gitignore
+!README.md
